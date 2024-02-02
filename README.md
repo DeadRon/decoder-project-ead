@@ -2,31 +2,31 @@
 
 ## Serviços desenvolvidos no Projeto EAD
 
-### [Microservice AuthUser](https://github.com/DeadRon/projeto-decoder-authuser-service) 
-### [Microservice Course](https://github.com/DeadRon/projeto-decoder-course-service) 
-### [Microservice Notification]() 
-### [Microservice Api Gateway]() 
-### [Microservice Service Registry](https://github.com/DeadRon/projeto-decoder-service-registry) 
+- ### [Microservice AuthUser](https://github.com/DeadRon/projeto-decoder-authuser-service) 
+- ### [Microservice Course](https://github.com/DeadRon/projeto-decoder-course-service) 
+- ### [Microservice Notification]() 
+- ### [Microservice Api Gateway]() 
+- ### [Microservice Service Registry](https://github.com/DeadRon/projeto-decoder-service-registry) 
 
 
 ## Resumos 
 
-### Semana 1
+- ### Semana 1
 
-### Semana 2
+- ### Semana 2
 
-### Semana 3
+- ### Semana 3
 
-### Semana 4
+- ### Semana 4
 
-### Semana 5
+- ### Semana 5
 
-### Semana 6
+- ### Semana 6
 
-### Semana 7
+- ### Semana 7
 
-### Semana 8
+- ### Semana 8
 
-### Semana 9
+- ### Semana 9
 
-### Semana 10
+- ### Semana 10
