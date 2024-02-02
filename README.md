@@ -17,7 +17,7 @@
 
 - ### Semana 3
 
-- ### Semana 4
+- ### [Semana 4 - Cross Cutting - Service Registry Discovery Pattern](https://github.com/DeadRon/projeto-decoder-semana-4)
 
 - ### Semana 5
 
