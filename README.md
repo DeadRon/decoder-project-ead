@@ -8,22 +8,25 @@
 ### [Microservice Api Gateway]() 
 ### [Microservice Service Registry](https://github.com/DeadRon/projeto-decoder-service-registry) 
 
-## Semana 1
 
-## Semana 2
+## Resumos 
 
-## Semana 3
+### Semana 1
 
-## Semana 4
+### Semana 2
 
-## Semana 5
+### Semana 3
 
-## Semana 6
+### Semana 4
 
-## Semana 7
+### Semana 5
 
-## Semana 8
+### Semana 6
 
-## Semana 9
+### Semana 7
 
-## Semana 10
+### Semana 8
+
+### Semana 9
+
+### Semana 10
